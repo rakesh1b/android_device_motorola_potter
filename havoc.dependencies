@@ -1,7 +1,7 @@
 [
   {
     "remote": "github",
-    "repository": "ArrowOS-Devices/android_vendor_motorola_potter",
+    "repository": "ArrowOS-Devices/android_kernel_motorola_potter",
     "target_path": "kernel/motorola/potter"
     "branch": "arrow-9.x"
   },
