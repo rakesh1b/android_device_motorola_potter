@@ -26,6 +26,8 @@ $(call inherit-product, vendor/havoc/config/common.mk)
 # Inherit from potter device
 $(call inherit-product, device/motorola/potter/device.mk)
 $(call inherit-product, vendor/havoc/config/telephony.mk)
+# for specific
+$(call inherit-product, vendor/motorola/potter/potter-vendor.mk)
 
 # Boot animation
 TARGET_SCREEN_WIDTH := 1080
